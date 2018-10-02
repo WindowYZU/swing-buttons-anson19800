@@ -44,7 +44,6 @@ public class CheckboxSample {
                 JOptionPane.showMessageDialog(null, str);
             }
         };
-                
         check1.addActionListener(listener);
         check2.addActionListener(listener);
         ////////////////////////////////////////
