@@ -58,6 +58,7 @@ public class RadioButtonSample {
         radio2.addActionListener(listener);
         checkBox.addActionListener(listener);
         toggle.addActionListener(listener);
+        
         ////////////////////////////////////////////////////
         
         frame.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
